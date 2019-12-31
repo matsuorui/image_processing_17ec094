@@ -1,6 +1,18 @@
 課題5
 
 
+カラー画像を白黒濃淡画像に変換する．
+
+：
+
+ORG = rgb2gray(ORG); %カラーからグレイへの変換
+
+：
+
+![原画像](https://github.com/matsuorui/image_processing_17ec094/blob/master/image/image/k2-1.png)
+
+図1白黒濃淡画像
+
 判別分析法によって画像二値化を行う．
 
 ：
@@ -53,4 +65,4 @@ IMG = ORG > max_thres;
 
 ![画像](https://github.com/matsuorui/image_processing_17ec094/blob/master/image/image/k5-1.png)
 
-図1 二値化画像
+図2 二値化画像
