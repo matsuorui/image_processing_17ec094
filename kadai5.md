@@ -61,7 +61,7 @@ IMG = ORG > max_thres;
 
 ：
 
-以上のようにして分離度が最大となる閾値を算出し画像の二値化を行う．
+以上のようにして分離度が最大となる閾値を算出し画像の二値化を行う．結果を図2に示す．
 
 ![画像](https://github.com/matsuorui/image_processing_17ec094/blob/master/image/image/k5-1.png)
 
