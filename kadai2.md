@@ -71,3 +71,5 @@ IMG=IMG0 + IMG2 + IMG3 + IMG4 + IMG5 + IMG6;
 ![原画像](https://github.com/matsuorui/image_processing_17ec094/blob/master/image/image/k2-4.png)
 
 図4 8階調画像
+
+図2~3を比較すると,階調数が大きくなるほど原画像に近づくことがわかる．
