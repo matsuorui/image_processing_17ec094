@@ -1,6 +1,18 @@
 課題6
 
 
+カラー画像を白黒濃淡画像に変換する．
+
+：
+
+ORG = rgb2gray(ORG); %カラーからグレイへの変換
+
+：
+
+![原画像](https://github.com/matsuorui/image_processing_17ec094/blob/master/image/image/k2-1.png)
+
+図1白黒濃淡画像
+
 画像を二値化する．
 
 
