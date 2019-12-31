@@ -30,18 +30,18 @@ IMG = ORG > 192;%閾値192
 
 ![画像](https://github.com/matsuorui/image_processing_17ec094/blob/master/image/image/k3-1.png)
 
-図10 処理画像(閾値64)
+図2 処理画像(閾値64)
 
 ![画像](https://github.com/matsuorui/image_processing_17ec094/blob/master/image/image/k3-2.png)
 
-図11 処理画像(閾値96)
+図3 処理画像(閾値96)
 
 
 ![画像](https://github.com/matsuorui/image_processing_17ec094/blob/master/image/image/k3-3.png)
 
-図12 処理画像(閾値128)
+図4 処理画像(閾値128)
 
 
 ![画像](https://github.com/matsuorui/image_processing_17ec094/blob/master/image/image/k3-4.png)
 
-図13 処理画像(閾値192)
+図5 処理画像(閾値192)
