@@ -3,6 +3,8 @@
 
 判別分析法によって画像二値化を行う．
 
+：
+
 H = imhist(ORG); %ヒストグラムのデータを列ベクトルEに格納
 
 myu_T = mean(H);
@@ -44,6 +46,10 @@ end;
 end;
 
 IMG = ORG > max_thres;
+
+：
+
+以上のようにして分離度が最大となる閾値を算出し画像の二値化を行う．
 
 ![画像](https://github.com/matsuorui/image_processing_17ec094/blob/master/image/image/k5-1.png)
 
